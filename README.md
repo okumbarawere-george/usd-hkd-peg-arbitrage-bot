@@ -1,4 +1,4 @@
-# usd-hkd-peg-arbitrage-bot
+# USD-HKD Peg Arbitrage Bot
 
 ## 📌 Description
 A real-time trading bot targeting inefficiencies around the USD/HKD currency peg.
