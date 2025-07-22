@@ -1,18 +1,18 @@
-# usd-hkd-peg-arbitrage-bot
+# Retail Customer Churn Predictor
 
 ## 📌 Description
-A real-time trading bot targeting inefficiencies around the USD/HKD currency peg.
+Machine learning model that predicts customer churn based on behavioral transaction data.
 
 ## 🚀 Key Features
-- Custom statistical arbitrage algorithm tailored to USD/HKD peg behavior
-- Latency-optimized execution engine with risk filters
-- Integrated with exchange APIs for live and paper trading
-- Backtesting support using historical tick data
+- XGBoost and logistic regression models
+- API integration with Flask
+- Evaluation metrics including ROC, precision-recall
+- SQLite support for lightweight local deployments
 
 ## 🧰 Tech Stack
-Python, Pandas, NumPy, ccxt, Backtrader
+Python, XGBoost, Flask, SQLite
 
 ## 💡 Use Cases
-- Currency trading automation
-- Peg arbitrage analysis
-- Market inefficiency detection
+- SME customer retention analysis
+- Churn forecasting dashboards
+- Embedded analytics in CRM platforms
